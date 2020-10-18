@@ -1,4 +1,5 @@
 # Practises - NodeJS with Redis
+This project is part of the Bootcamp: [Node.JS Web Developer][bootcamp], from [Digital Innovation One][dio].
 
 ### Clone the repository
 
@@ -35,3 +36,6 @@ $ nodemon src/queue.js
 | Service | Site |
 | ------ | ------ |
 | MailTrap | https://mailtrap.io/ |
+
+[dio]: <https://web.digitalinnovation.one/home>
+[bootcamp]: <https://web.digitalinnovation.one/track/nodejs-web-developer>
