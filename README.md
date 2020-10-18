@@ -30,3 +30,8 @@ $ nodemon src/queue.js
 | Password-generator | https://www.npmjs.com/package/password-generator |
 | Bull | https://www.npmjs.com/package/bull |
 | Bull-board | https://www.npmjs.com/package/bull-board |
+
+### Used external services
+| Service | Site |
+| ------ | ------ |
+| MailTrap | https://mailtrap.io/ |
